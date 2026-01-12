@@ -50,7 +50,7 @@ A full-stack, production-ready e-commerce platform with user authentication, sho
 - Full product inventory management
 - Add, edit, and delete products
 - Real-time stock management
-- Order status updates
+- Order status updates (Not implemented)
 - Admin-only dashboard
 
 ### 🎯 User Experience
