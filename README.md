@@ -581,8 +581,8 @@ MIT License - Free to use, modify, and distribute
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@jyanimaulik](https://github.com/jyanimaulik)
+- Email: jyanimaulik.ca@gmail.com
 
 ---
 
@@ -591,19 +591,6 @@ MIT License - Free to use, modify, and distribute
 - 📖 Check the [documentation](https://github.com/yourusername/shopping-cart/wiki)
 - 🐛 Report bugs on [Issues](https://github.com/yourusername/shopping-cart/issues)
 - 💬 Start a [Discussion](https://github.com/yourusername/shopping-cart/discussions)
-
----
-
-## 🎯 Roadmap
-
-- [ ] Payment gateway integration
-- [ ] Email notifications
-- [ ] Product reviews and ratings
-- [ ] Wishlist feature
-- [ ] Advanced search filters
-- [ ] User profile management
-- [ ] Mobile app (React Native)
-- [ ] Analytics dashboard
 
 ---
 
