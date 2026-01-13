@@ -1,4 +1,4 @@
-# Shopping Cart - E-Commerce Platform 🛒
+# Shopping Cart _ E-Commerce Platform 🛒
 
 <div align="center">
 
