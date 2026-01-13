@@ -129,7 +129,7 @@ MySQL 8.0+ • JPA/Hibernate ORM
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/shopping-cart.git
+git clone https://github.com/jyanimaulik/shopping-cart.git
 cd shopping-cart
 ```
 
@@ -588,9 +588,9 @@ MIT License - Free to use, modify, and distribute
 
 ## 🙋 Support
 
-- 📖 Check the [documentation](https://github.com/yourusername/shopping-cart/wiki)
-- 🐛 Report bugs on [Issues](https://github.com/yourusername/shopping-cart/issues)
-- 💬 Start a [Discussion](https://github.com/yourusername/shopping-cart/discussions)
+- 📖 Check the [documentation](https://github.com/jyanimaulik/shopping-cart/wiki)
+- 🐛 Report bugs on [Issues](https://github.com/jyanimaulik/shopping-cart/issues)
+- 💬 Start a [Discussion](https://github.com/jyanimaulik/shopping-cart/discussions)
 
 ---
 
@@ -598,6 +598,6 @@ MIT License - Free to use, modify, and distribute
 
 **⭐ If you found this project helpful, please give it a star!**
 
-[Back to Top](#shophub---modern-e-commerce-platform-)
+[Back to Top](#shopping-cart---modern-e-commerce-platform-)
 
 </div>
